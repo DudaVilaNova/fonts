@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Tormenta20';
+    src: url('fonts/Tormenta20.eot');
+    src: url('fonts/Tormenta20.eot?#iefix') format('embedded-opentype'),
+         url('fonts/Tormenta20.woff2') format('woff2'),
+         url('fonts/Tormenta20.woff') format('woff'),
+         url('fonts/Tormenta20.ttf')  format('truetype'),
+         url('fonts/Tormenta20.svg#Tormenta20') format('svg');
+}
