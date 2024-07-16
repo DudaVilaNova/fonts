@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Tormenta20';
+    src: url('subset-Tormenta20.eot');
+    src: url('subset-Tormenta20.eot?#iefix') format('embedded-opentype'),
+        url('subset-Tormenta20.woff2') format('woff2'),
+        url('subset-Tormenta20.woff') format('woff'),
+        url('subset-Tormenta20.ttf') format('truetype'),
+        url('subset-Tormenta20.svg#Tormenta20') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
